@@ -4,6 +4,7 @@
 **AnhTuan021004/AnhTuan021004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![371793345_2417425578435684_6026154524851670917_n](https://github.com/AnhTuan021004/AnhTuan021004/assets/117623556/af03e9f9-fb27-49c0-95ec-e4d5bca976b2)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
